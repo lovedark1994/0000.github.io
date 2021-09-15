@@ -1,0 +1,10 @@
+{
+	"name": "攻略",
+	"short_name": "攻略",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": []
+}
